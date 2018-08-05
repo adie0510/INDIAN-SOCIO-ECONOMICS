@@ -1,7 +1,7 @@
 # INDIAN-SOCIO-ECONOMICS
 
-INDIAN-SOCIO-ECONOMICS folder contains a PowerPoint Presentation which describes content of project which includes
-
+1. INDIAN-SOCIO-ECONOMICS folder contains a PowerPoint Presentation INDIAN-SOCIO-ECONOMICS.pptx which describes
+   content of project which includes
       1.Introduction
       2.Objective
       3.Technology Used
